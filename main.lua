@@ -90,3 +90,5 @@ local function updateText()
     livesText.text = "Lives:"..lives
     scoreText.text = "Score:"..score
 end
+
+-- I am newCode
